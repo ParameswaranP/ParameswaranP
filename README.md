@@ -4,7 +4,7 @@
 - 📡 IoT Developer
 - 🎬 Movie Freak
 - 🐬 Partner of sree valient solution
-- 💥 Love with Video editing 🖤
+- 💥 Video editing Love 🖤
 - 🦷 Over talkative in nature 😅
 ## Reach Me 👇
 
