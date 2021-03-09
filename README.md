@@ -7,4 +7,10 @@
 - 💥 Video editing Love 🖤
 - 🦷 Over talkative in nature 😅
 ## connect with me 👇
-- Wait for it 😅
+
+[<img height="50" src="https://github.com/ParameswaranP/Assets/blob/main/Gmail.png" />][gmail]
+
+<br />
+<hr />
+
+[gmail]: paramupanneerselvam@gmail.com
