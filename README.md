@@ -21,7 +21,6 @@
   transform: scale(1.5); /* (150% zoom - Note: if the zoom is too large, it will go outside of the viewport) */
 }
 </style>
-<div class="zoom"></div>
 
 [<div class="zoom" img height="50" src="https://github.com/ParameswaranP/Assets/blob/main/Gmail.png" />][gmail]  &nbsp;&nbsp; &nbsp;&nbsp;
 [<img height="50" src="https://github.com/ParameswaranP/Assets/blob/main/Linkedin.png" />][Linkedin] &nbsp;&nbsp;
