@@ -8,9 +8,9 @@
 - 🦷 Over talkative in nature 😅
 ## Contact me 👇
 
-[<img height="50" src="https://github.com/ParameswaranP/Assets/blob/main/Gmail.png" />][gmail] &nbsp;&nbsp;
+[<img height="50" src="https://github.com/ParameswaranP/Assets/blob/main/Gmail.png" />][gmail] &nbsp;&nbsp; &nbsp;&nbsp;
 [<img height="50" src="https://github.com/ParameswaranP/Assets/blob/main/Linkedin.png" />][Linkedin] &nbsp;&nbsp;
-[<img height="50" src="https://github.com/ParameswaranP/Assets/blob/main/Twitter.png" />][Twitter] &nbsp;&nbsp;
+[<img height="50" src="https://github.com/ParameswaranP/Assets/blob/main/Twitter.png" />][Twitter] &nbsp;&nbsp; &nbsp;&nbsp;
 [<img height="50" src="https://github.com/ParameswaranP/Assets/blob/main/Instagram.png" />][Instagram] &nbsp;&nbsp;
 [<img height="50" src="https://github.com/ParameswaranP/Assets/blob/main/Youtube.png" />][Youtube]
 <br />
