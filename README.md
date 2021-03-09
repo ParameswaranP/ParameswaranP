@@ -6,5 +6,5 @@
 - 🐬 Partner of sree valient solution
 - 💥 Video editing Love 🖤
 - 🦷 Over talkative in nature 😅
-## Reach Me 👇
+## connect with me 👇
 - Wait for it 😅
