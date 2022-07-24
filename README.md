@@ -1,23 +1,22 @@
-[![MasterHead](https://png.pngtree.com/thumb_back/fw800/back_our/20190621/ourmid/pngtree-tech-wind-smart-ai-era-green-banner-poster-image_194416.jpg)](https://github.com/ParameswaranP)
-
 <h1 align="center">Hi 👋, I'm ParameswaranP</h1>
 <h3 align="center">A fervent Machine Leaning and IoT developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*hVg6snnIJHN6VaoW.gif">
 
+<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*hVg6snnIJHN6VaoW.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parameswaranp&label=Profile%20views&color=0e75b6&style=flat" alt="parameswaranp" /> </p>
 
-- 🔭 I’m currently working on **Computer Vision**
+- 🦾 Machine Learning Developer
 
-- 🌱 I’m currently learning **Data Science and AI**
+- 🐍 Python Developer
 
-- 👯 I’m looking to collaborate on **Newer Technologies**
+- 📡 IoT Developer
 
-- 📝 I regularly write articles on [https://medium.com/@ParameswaranP](https://medium.com/@ParameswaranP)
+- 🎬 Movie Freak
 
-- 💬 Ask me about **Python Coding and IoT**
+- 💥 Video editing Love 🖤
 
-- 📫 How to reach me **paramupanneerselvam@gmail.com**
+- 🦷 Over talkative in nature 😅
+
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1_QSViprn0oAticDP71nKD3hv_3_aKtpj/view?usp=sharing](https://drive.google.com/file/d/1_QSViprn0oAticDP71nKD3hv_3_aKtpj/view?usp=sharing)
 
@@ -38,5 +37,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parameswaranp&show_icons=true&locale=en&layout=compact" alt="parameswaranp" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parameswaranp&show_icons=true&locale=en" alt="parameswaranp" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parameswaranp&" alt="parameswaranp" /></p>
