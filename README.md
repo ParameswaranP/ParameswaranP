@@ -18,7 +18,7 @@
 - 🦷 Over talkative in nature 😅
 
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1_QSViprn0oAticDP71nKD3hv_3_aKtpj/view?usp=sharing](https://drive.google.com/file/d/1_QSViprn0oAticDP71nKD3hv_3_aKtpj/view?usp=sharing)
+- 📄 Know about my experiences [Click here 👈🏽](https://drive.google.com/file/d/1JFSyd80RMoPHUjFWdmf9tvgaaj73AwRs/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
