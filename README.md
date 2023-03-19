@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm ParameswaranP</h1>
-<h3 align="center">A fervent Machine Leaning and IoT developer from India</h3>
+<h3 align="center">A fervent Machine Learning and IoT developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/1400/0*hVg6snnIJHN6VaoW.gif">
 
